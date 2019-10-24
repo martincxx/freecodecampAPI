@@ -1,0 +1,26 @@
+{
+  "name": "freecodecampapi",
+  "version": "1.0.0",
+  "description": "A Repository for Freecodecamp labs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martincxx/freecodecampAPI.git"
+  },
+  "keywords": [
+    "API",
+    "node",
+    "mongodb",
+    "express",
+    "test"
+  ],
+  "author": "Martin Coronel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martincxx/freecodecampAPI/issues"
+  },
+  "homepage": "https://github.com/martincxx/freecodecampAPI#readme"
+}
